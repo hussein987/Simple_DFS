@@ -287,5 +287,3 @@ A lot room for improvement exists for this project, such as:
 - Using more intelligent file replication algorithms.
 - Gathering more usage statistics.
 - Employing a DBMS to support persistent structures.
-
-Our team's contribution was pretty evenly divided and is available through our GitHub commit history.
