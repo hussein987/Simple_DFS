@@ -4,10 +4,6 @@
 
 In this document we shall summarize our distributed file system (DFS) implementation. Note that we merged both the GitHub `README` file and the project report into this document.
 
-The GitHub repository for our project is available here:
-
-https://github.com/khaledismaeel/Simple-DFS
-
 The DockerHub repositories for our client, name server, and storage server images are available here:
 
 https://hub.docker.com/r/hussein987/client
