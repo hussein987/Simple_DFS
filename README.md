@@ -277,16 +277,6 @@ Deletes the given directory.
 ```
 $ python client.py directory delete /usr/local/
 ```
-## Team Work
-
-Our team consists of Khaled Ismaeel from `BS18-SB-01` and Hussein Younes from `BS18-DS-02`. After spending some time to agree on the overall DFS architecture and request-response formats between its nodes, we evenly divided the work among us as follows.
-
-- Khaled Ismaeel shall be responsible for the central point of the DFS: the name server. He wrote the entire code for the name server and built its docker image.
-- Hussein Younes shall be responsible for the client and storage server applications. Again, he wrote the entire source for both of them and built their docker images.
-
-With that division we had almost half of the project code for each of us to code (each had two communication channels to write). Our commit history on GitHub provides all the relevant statistics.
-
-It is worth noting that we were in a continuous testing loop throughout development. That is, we were constantly present together while writing and testing the code.
 
 ## Conclusion
 
